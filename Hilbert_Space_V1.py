@@ -10,9 +10,9 @@ np.random.seed(39)
 
 
 # 7. Putanja do podataka (CSV)
-# putanja = '/Users/4c/Desktop/GHQ/data/loto7_4708_k85.csv'
-# putanja = '/Users/4c/Desktop/GHQ/data/loto7_4708_k85_loto_2976.csv'
-putanja = '/Users/4c/Desktop/GHQ/data/loto7_4708_k85_loto_plus_1732.csv'
+# putanja = '/data/loto7_4708_k85.csv'
+# putanja = '/data/loto7_4708_k85_loto_2976.csv'
+putanja = '/data/loto7_4708_k85_loto_plus_1732.csv'
 
 
 # 6. Učitavanje fajla
@@ -80,19 +80,19 @@ print()
 """
 Mod: Apsolutni Maksimum (Nelinearni Gram-Schmidt + Jacobijeva Refleksija)
 Analizirano redova: 4708
-Predložena kombinacija v1_maksimum: [2, 10, 16, 22, 23, 28, 32]
+Predložena kombinacija v1_maksimum: [2, x, 16, y, 23, z, 32]
 
 
 
 Mod: Apsolutni Maksimum (Nelinearni Gram-Schmidt + Jacobijeva Refleksija)
 Analizirano redova: 2976
-Predložena kombinacija v1_maksimum: [8, 11, 12, 13, 21, 23, 35]
+Predložena kombinacija v1_maksimum: [8, x, 12, y, 21, z, 35]
 
 
 
 Mod: Apsolutni Maksimum (Nelinearni Gram-Schmidt + Jacobijeva Refleksija)
 Analizirano redova: 1732
-Predložena kombinacija v1_maksimum: [6, 8, 10, 22, 32, 35, 36]
+Predložena kombinacija v1_maksimum: [6, x, 10, y, 32, z, 36]
 """
 
 
